@@ -2,7 +2,8 @@
 
 ## I`m a junior QA engineer
 
-My CV
+### My CV
+[Link to my CV](https://drive.google.com/file/d/19Kuj_H6fMYKx0OMFOrLsfilSR2D6kSCk/view?usp=sharing)
 
 ### Tools
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=badge&logo=Jira)
