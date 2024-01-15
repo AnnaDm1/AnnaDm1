@@ -17,8 +17,9 @@ My CV
 ![XMind](https://img.shields.io/badge/-XMind-090909?style=badge&logo=XMind)
 
 
-
-
 Testing Documentation
 
-Follow Me
+### Follow Me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=badge&logo=Telegram)](https://t.me/+79859944925)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=badge&logo=Instagram)](https://www.instagram.com/annadm1_)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=badge&logo=LinkedIn)](https://www.linkedin.com/in/dmitrievaanna)
