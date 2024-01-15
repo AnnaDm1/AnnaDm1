@@ -20,8 +20,11 @@
 
 ### Testing Documentation
 [Test plan](https://github.com/AnnaDm1/Test-plan)
+
 [Check-lists](https://github.com/AnnaDm1/Check-lists)
+
 [Test-cases](https://github.com/AnnaDm1/Test-cases)
+
 [Bug reports](https://github.com/AnnaDm1/Bug-reports)
 
 
