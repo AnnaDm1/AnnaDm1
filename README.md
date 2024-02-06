@@ -27,6 +27,8 @@
 
 [Bug reports](https://github.com/AnnaDm1/Bug-reports)
 
+[SQL operations](https://github.com/AnnaDm1/SQL)
+
 
 
 ### Follow Me
